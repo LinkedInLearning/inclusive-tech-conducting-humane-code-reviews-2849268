@@ -17,8 +17,4 @@ Some branches will have a beginning and an end state. These are marked with the 
 	- git
 	- IDE of your choice (VS Code, Sublime, Atom, etc.)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-<<<<<<< HEAD
-3. Use the CREATE-TEAM-WORK-AGREEMENT.md file with your team to begin creating your own team working agreement!
-=======
-3. The code review challenge (Video 04-05) will rely on you and your teammates / another individual to go through the pull request system in GitHub to practice your code review comments! Check out this [helpful guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on how to open a pull request in GitHub.
->>>>>>> main
+3. Check out the SAMPLE-TEAM-WORK-AGREEMENT.md file to see an example of a completed Team Working Agreement!
