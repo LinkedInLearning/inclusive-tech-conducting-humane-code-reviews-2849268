@@ -3,7 +3,7 @@
 A Team Working Agreement is a flexible, enforceable, and co-created document that establishes your team’s development processes and the guidelines that surround it. 
 
 ## How to use this file
-Clone this repository and use this file as a starting point for your team. You can follow the steps make sense for your team and skip the ones that don't! By the end of this exercise, you should have a formalized document that contains your team's agreed upon terms.
+Clone this repository and use this file as a starting point for your team. You can follow the steps that make sense for your team and skip the ones that don't! By the end of this exercise, you should have a formalized document that contains your team's agreed upon terms.
 
 
 ### Step 1. Plan out some dedicated meetings to discuss your team's code review process (or lack thereof), coding conventions from past experience, and any other topics related to how your team will facilitate code reviews.
