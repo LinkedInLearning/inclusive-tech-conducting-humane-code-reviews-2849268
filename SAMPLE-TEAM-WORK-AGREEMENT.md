@@ -95,7 +95,7 @@ IT129-update-platform-docs
 ### Getting your code reviewed
 We strive to have every line of code reviewed by at least two other developers to make sure we did not forget something obvious, break
 something unintentionally, or isolate information from other developers on the team. For this reason, we use GitHub code reviews. Code may not be merged until it passes acceptance by at least two other
-developer.
+developers.
 
 **Our pull request process**
 1. Open the repository on GitHub.
