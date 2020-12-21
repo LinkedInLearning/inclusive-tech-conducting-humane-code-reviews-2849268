@@ -1,7 +1,6 @@
 # Inclusive Tech: Conducting Humane Code Reviews
 This is the repository for the LinkedIn Learning course Inclusive Tech: Conducting Humane Code Reviews. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Inclusive Tech: Conducting Humane Code Reviews]
 Learn how to conduct fair, objective, and productive code reviews and still like your teammates afterward! Instructor Adrienne Braganza Tacke explains why we conduct code reviews, the main pain points teams experience, and what your team needs to make code reviews successful. She explores objectivity and how to write constructive feedback, covers why your team needs a working agreement and how to create one, and offers tools and automations to make the process faster and easier for your team. Successful code reviews have an inclusive mindset, so Adrienne also steps through how to master writing any kind of code review comment, even constructive feedback, and covers how to formalize an enforceable code review process. With buy-in from the whole team and a clear, detailed process laid out, process loopholes should be minimized and hopefully eradicated for good.
 
 ## Instructions
